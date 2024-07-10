@@ -318,14 +318,9 @@ body.dark .search-field i {
 .btn-color-1:hover,
 .btn-color-2:hover {
     cursor: pointer;
-}
-
-.btn-color-1:hover,
-.btn-color-2:hover {
-    background: rgb(0, 0, 0);
+    background: rgb(66, 64, 64);
     border: rgb(255, 255, 255) 0.1rem solid;
 }
-
 
 .btn-container {
     gap: 1rem;
